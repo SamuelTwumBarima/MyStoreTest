@@ -7,3 +7,6 @@ Find the folder named "TestDataAccess" , Identify the Excel file named "TestData
 In the solutions explorer; Open the folder named Configurations and open the config file named Environment.config
 In the config file set the value of the TestDataSheetPath to the file path of the TestData.xlsx that was copied i.e C:\Users\Name\Documents\Dev\MyStoreTest\MyStoreTest\TestDataAccess\TestData.xlsx
 Save and your test will be ready to be run :)
+
+If the test fails due to accesing the data because of Provider=Microsoft.ACE.OLEDB.12.0, Then please download a compatitable version of Microsoft.ACE.OLEDB.12.0 for your machine
+or uninstall and install microsoft office again (hopefully you wont have to) :)
