@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zs/6D0Y6wToL62mn9q1OioM2IPh5zN4+2xjmX4aMV40YyS4Isojs40u14bia4T4fAH4NyCtZNM7ayiNok4BIig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sammie\\Documents\\Dev\\MyStoreTest\\MyStoreTest\\MyStoreTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sammie\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\selenium.webdriver.chromedriver\\100.0.4896.6000\\selenium.webdriver.chromedriver.100.0.4896.6000.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\system.data.odbc\\6.0.0\\system.data.odbc.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sammie\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
